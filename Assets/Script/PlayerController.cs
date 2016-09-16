@@ -1,7 +1,6 @@
 ﻿using UnityEngine;
 using System.Collections;
 using System;
-using UnityEngine.UI;
 
 public class PlayerController : MonoBehaviour {
 
@@ -22,7 +21,6 @@ public class PlayerController : MonoBehaviour {
 	public Vector3 respawnPosition;
 	private LevelManager levelManager;
 	private AudioSource jumpEffect;
-	private Text coinText;
 
 	public Vector3 getRespawnPosition(){
 		return this.respawnPosition;

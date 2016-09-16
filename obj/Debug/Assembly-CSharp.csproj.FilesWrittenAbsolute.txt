@@ -1,0 +1,14 @@
+/home/mustafaguven/new2dproject/Temp/bin/Debug/UnityEngine.dll
+/home/mustafaguven/new2dproject/Temp/bin/Debug/UnityEditor.dll
+/home/mustafaguven/new2dproject/Temp/bin/Debug/UnityEngine.UI.dll
+/home/mustafaguven/new2dproject/Temp/bin/Debug/UnityEngine.Networking.dll
+/home/mustafaguven/new2dproject/Temp/bin/Debug/UnityEngine.Analytics.dll
+/home/mustafaguven/new2dproject/Temp/bin/Debug/Unity.DataContract.dll
+/home/mustafaguven/new2dproject/Temp/bin/Debug/Mono.Cecil.dll
+/home/mustafaguven/new2dproject/Temp/bin/Debug/Unity.SerializationLogic.dll
+/home/mustafaguven/new2dproject/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/home/mustafaguven/new2dproject/Temp/bin/Debug/Unity.UNetWeaver.dll
+/home/mustafaguven/new2dproject/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/home/mustafaguven/new2dproject/Temp/bin/Debug/Unity.CecilTools.dll
+/home/mustafaguven/new2dproject/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/home/mustafaguven/new2dproject/Temp/bin/Debug/Mono.Cecil.Mdb.dll
